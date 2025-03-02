@@ -220,6 +220,7 @@ PRODUCT_PACKAGES += \
     CarrierConfigResCommon \
     FrameworksResTarget \
     NcmTetheringOverlay \
+    OPlusDolbyResCommon \
     OPlusFrameworksResCommon \
     OPlusSettingsResCommon \
     OPlusSystemUIResCommon \
